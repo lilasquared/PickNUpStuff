@@ -1,0 +1,84 @@
+body {
+  margin-top: 40px;
+}
+
+.navbar .container {
+  background-color: #008854;;
+}
+
+.modal-footer {
+  margin: 0px;
+}
+
+.form-group:last-child {
+  margin: 0px;
+}
+
+/* Change Colors for Navbar and text */
+.navbar-spsu,
+.navbar-spsu .dropdown-menu,
+.navbar-spsu .navbar-nav li a:focus {
+  background-color: #008854;
+  color: white;
+  border: 0px;
+}
+
+.navbar-spsu .navbar-nav li .caret,
+.navbar-spsu .navbar-nav .open .caret,
+.nav .open > a:focus .caret {
+  border-top-color: white;
+  border-bottom-color: white;
+}
+
+.navbar-spsu .navbar-nav li a:hover,
+.navbar-spsu .navbar-nav .open > a,
+.navbar-spsu .navbar-nav .open > a:focus,
+.navbar-spsu .navbar-brand:hover {
+  background-color: #4CBB2A;
+  color: white;
+}
+
+.navbar-brand,
+.navbar-brand:hover,
+.navbar-nav li a {
+  color: white;
+}
+
+.btn {
+  border: 0px;
+  overflow: hidden;
+}
+
+.btn-text {
+  display: none;
+}
+
+.btn-block.btn-lg {
+  font-size: 100px;
+  line-height: 0px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.btn-block.btn-lg:hover {
+  font-size: 30px;
+  line-height: 30px;
+  padding-top: 55px;
+  padding-bottom: 55px;
+}
+
+.btn-block.btn-lg:hover .glyphicon {
+  display: none;
+}
+
+.btn-block.btn-lg:hover .btn-text {
+  display: block;
+}
+
+.row {
+  padding-bottom: 20px;
+}
+
+.progress {
+  height: 100px;
+}

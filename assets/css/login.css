@@ -1,0 +1,27 @@
+.modal-footer {
+  margin: 0px;
+}
+
+.form-group:last-child {
+  margin: 0px;
+}
+
+.logo {
+  margin-bottom: 20px;
+}
+
+.btn-spsu {
+  background-color: #008854;
+  color: white;
+}
+
+.btn-spsu:hover {
+  background-color: #4CBB2A;
+  color: white;
+}
+
+.glyphicon-ban-circle {
+  font-size: 200px;
+  margin-top: 50px;
+  color: #008854;
+}
